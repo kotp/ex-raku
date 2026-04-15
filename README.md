@@ -32,6 +32,8 @@ just test-practice-example \*
 just test-practice-example '*'
 ```
 
+Run `bin/verify-exercises-in-docker` to run tests in the track's test runner Docker image.
+
 ### Raku icon
 
 The Raku "Camelia" logo is owned by Larry Wall and is released under version 2.0 of the Artistic License.
